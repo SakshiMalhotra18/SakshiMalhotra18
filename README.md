@@ -1,4 +1,11 @@
+# 💫 Hi 👋, I'm Sakshi Malhotra
+**A passionate Data Scientist || Data Engineer || AI Engineer**
 
+Email Me 👉 ✉️ **sakshi.malhotra.connect@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Building an AI Agent
+- 🌱 **I’m currently learning:** Claude Prompt Engineering
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-malhotra18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshi.malhotra.connect@gmail.com) 
 
@@ -18,4 +25,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=SakshiMalhotra18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
