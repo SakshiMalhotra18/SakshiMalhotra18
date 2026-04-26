@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **sakshi.malhotra.connect@gmail.com** For Collaboration/Pro
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SakshiMalhotra18&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
